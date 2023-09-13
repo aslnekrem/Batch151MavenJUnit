@@ -4,20 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="281f35df-25ef-4816-bc34-68f092750c37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_BeforeClassAfterClass_Assertion/C01BeforeClassAfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_BeforeClassAfterClass_Assertion/C02_BeforeClassAfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_BeforeClassAfterClass_Assertion/C03_BeforeClassAfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_BeforeClassAfterClass_Assertion/C04_CheckBoxClassWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_BeforeClassAfterClass_Assertion/C05_RadioButtonClassWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_BeforeClassAfterClass_Assertion/C06_Assertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_BeforeClassAfterClass_Assertion/C07_AssertionClassWork.java" afterDir="false" />
+    <list default="true" id="281f35df-25ef-4816-bc34-68f092750c37" name="Changes" comment="06/06/23">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C01_MavenIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C01_relativeLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C02_ClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_MavenJUnit/C01_ClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_MavenJUnit/C02_BeforeAfter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_MavenJUnit/C03_BeforeAfter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day09_DropdownMenu/C01_ClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day09_DropdownMenu/C02_Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day09_DropdownMenu/C03_Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day10_TestBase_Alert/C01_TestBaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day10_TestBase_Alert/C02_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day10_TestBase_Alert/C03_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day11_Iframe_WindowHandle/C01_Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day11_Iframe_WindowHandle/C02_Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day11_Iframe_WindowHandle/C03_WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day12_WindowHandles/C01_WindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day12_WindowHandles/C02_BasicAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day13_CookiesActions/C01_Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day13_CookiesActions/C02_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day13_CookiesActions/C03_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day14_Actions_Faker/C01_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day14_Actions_Faker/C02_Actions_DragDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day14_Actions_Faker/C03_KeyDownKeyUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day14_Actions_Faker/C04_Faker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day14_Actions_Faker/Odev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day15_FilesExists/C01_FilesExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day15_FilesExists/C02_FileDownloadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day15_FilesExists/C03_FileUploadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day16_SeleniumWait/C01_ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day16_SeleniumWait/C02_ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day16_SeleniumWait/C03_FluentWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day16_SeleniumWait/C04_ExplicitWaitClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day17_Exceptions/C01_NoSuchElementException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day17_Exceptions/C02_TimeOutException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day17_Exceptions/C03_NullPointerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day17_Exceptions/C04_StaleElementReferenceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day18_ScreenShot/C01_TumSayfaResmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day18_ScreenShot/C02_TumSayfaResmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day18_ScreenShot/C03_TumSayfaResim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day18_ScreenShot/C04_WEresmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day18_ScreenShot/C05_ScreenShotClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day19_ExtentReport_WebTables/C01_ExtentReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day19_ExtentReport_WebTables/C02_ExtentReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day19_ExtentReport_WebTables/C03_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day20_WebTable_Excel/C02_ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day21_Excel_JSExecutor/C02_ExcelWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day21_Excel_JSExecutor/C03_JSExecutor_Click.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day22_JSExecutor/C02_SetAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day22_JSExecutor/C03_GetAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day23_Log4j/C01_Log4j.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day23_Log4j/C02_Log4j.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/resources/Capitals.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,85 +90,97 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/aslne/IdeaProjects/Batch151MavenJUnit",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.C07_AssertionClassWork">
-    <configuration name="C06_Assertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aslne\IdeaProjects\Batch151MavenJUnit\src\main\resources" />
+      <recent name="C:\Users\aslne\IdeaProjects\Batch151MavenJUnit\src\test\java\techproed\resources" />
+      <recent name="C:\Users\aslne\IdeaProjects\Batch151MavenJUnit\src\test\java\techproed" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aslne\IdeaProjects\Batch151MavenJUnit\src\test\java\techproed\day19_ExtentReport_WebTables" />
+      <recent name="C:\Users\aslne\IdeaProjects\Batch151MavenJUnit\target" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.C01_ExtentReport.test01">
+    <configuration name="C01_ExtentReport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151MavenJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day08_BeforeClassAfterClass_Assertion.*" />
+          <option name="PATTERN" value="techproed.day19_ExtentReport_WebTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day08_BeforeClassAfterClass_Assertion" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day08_BeforeClassAfterClass_Assertion.C06_Assertion" />
+      <option name="PACKAGE_NAME" value="techproed.day19_ExtentReport_WebTables" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day19_ExtentReport_WebTables.C01_ExtentReport" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Assertion.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_ExtentReport.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151MavenJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day08_BeforeClassAfterClass_Assertion.*" />
+          <option name="PATTERN" value="techproed.day19_ExtentReport_WebTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day08_BeforeClassAfterClass_Assertion" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day08_BeforeClassAfterClass_Assertion.C06_Assertion" />
-      <option name="METHOD_NAME" value="test02" />
+      <option name="PACKAGE_NAME" value="techproed.day19_ExtentReport_WebTables" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day19_ExtentReport_WebTables.C01_ExtentReport" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Assertion.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_Log4j.log4j" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151MavenJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day08_BeforeClassAfterClass_Assertion.*" />
+          <option name="PATTERN" value="techproed.day23_Log4j.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day08_BeforeClassAfterClass_Assertion" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day08_BeforeClassAfterClass_Assertion.C06_Assertion" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="PACKAGE_NAME" value="techproed.day23_Log4j" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day23_Log4j.C01_Log4j" />
+      <option name="METHOD_NAME" value="log4j" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_AssertionClassWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_Log4j" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151MavenJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day08_BeforeClassAfterClass_Assertion.*" />
+          <option name="PATTERN" value="techproed.day23_Log4j.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day08_BeforeClassAfterClass_Assertion" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day08_BeforeClassAfterClass_Assertion.C07_AssertionClassWork" />
+      <option name="PACKAGE_NAME" value="techproed.day23_Log4j" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day23_Log4j.C02_Log4j" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_AssertionClassWork.titleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_Log4j.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151MavenJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day08_BeforeClassAfterClass_Assertion.*" />
+          <option name="PATTERN" value="techproed.day23_Log4j.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day08_BeforeClassAfterClass_Assertion" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day08_BeforeClassAfterClass_Assertion.C07_AssertionClassWork" />
-      <option name="METHOD_NAME" value="titleTest" />
+      <option name="PACKAGE_NAME" value="techproed.day23_Log4j" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day23_Log4j.C02_Log4j" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C07_AssertionClassWork" />
-        <item itemvalue="JUnit.C07_AssertionClassWork.titleTest" />
-        <item itemvalue="JUnit.C06_Assertion" />
-        <item itemvalue="JUnit.C06_Assertion.test02" />
-        <item itemvalue="JUnit.C06_Assertion.test03" />
+        <item itemvalue="JUnit.C01_ExtentReport.test01" />
+        <item itemvalue="JUnit.C01_ExtentReport" />
+        <item itemvalue="JUnit.C02_Log4j" />
+        <item itemvalue="JUnit.C02_Log4j.test01" />
+        <item itemvalue="JUnit.C01_Log4j.log4j" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +205,14 @@
       <option name="presentableId" value="Default" />
       <updated>1686045319694</updated>
     </task>
+    <task id="LOCAL-00001" summary="06/06/23">
+      <created>1686083744592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686083744592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,7 +223,41 @@
             <State />
           </value>
         </entry>
+        <entry key="f54b40cb-99af-4241-ae15-c6e0a374b9b5">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/aslne/IdeaProjects/Batch151MavenJUnit/src/test/java/techproed/day08_BeforeClassAfterClass_Assertion" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="f54b40cb-99af-4241-ae15-c6e0a374b9b5" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="06/06/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="06/06/23" />
   </component>
 </project>
