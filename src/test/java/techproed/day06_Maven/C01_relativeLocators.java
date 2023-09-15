@@ -18,7 +18,6 @@ public class C01_relativeLocators {
         
 
 
-
         
         
         //city bike aratalım
