@@ -19,6 +19,7 @@ public class C01_relativeLocators {
 
         
         
+        
         //city bike aratalım
         WebElement aramaKutusu = driver.findElement(By.xpath("//*[@type='text']"));
         aramaKutusu.sendKeys("city bike", Keys.ENTER);
