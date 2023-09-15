@@ -15,7 +15,7 @@ public class C01_relativeLocators {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
         //amazona gidelim
         driver.get("https://amazon.com");
-        
+    
 
     
         //city bike aratalım
